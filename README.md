@@ -4,4 +4,6 @@ Not started yet
 
 Monster Centaur:
 
-https://static.wikia.nocookie.net/laracroft/images/b/bc/Centaur.png/revision/latest/scale-to-width-down/250?cb=20110528165316
+![image](https://user-images.githubusercontent.com/85832488/147797033-68d16f0a-ef39-43eb-9bf4-f752913d6173.png)
+
+
